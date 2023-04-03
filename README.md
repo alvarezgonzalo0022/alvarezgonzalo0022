@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Front end development with React<br>👯 I’m looking to collaborate on full stack projects<br>🌱 I’m currently learning back-end software development<br>💬 Ask me about anything related to programming, if i dont know the answer we can always look it up and learn 😉
+🔭 I’m currently working on Full Stack development<br>👯 I’m looking to collaborate on full stack projects<br>🌱 I’m currently learning back-end software development<br>💬 Ask me about anything related to programming, if i dont know the answer we can always look it up and learn 😉
 
 
 ## 🌐 Socials:
